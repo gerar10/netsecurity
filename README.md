@@ -99,7 +99,6 @@ El sistema dispone de dos aplicaciones bien diferenciadas:
 - React Native
 - Expo
 - Axios
-- Redux
 
 <p align="right">(<a href="#readme-top">volver a arriba</a>)</p>
 
@@ -197,8 +196,6 @@ Puedes ver todos los metodos de la API descargando la [colección de POSTMAN](ht
 - Carmela Cacabelos - ...@gmail.com
 - Gabriel Penise - ...@gmail.com
 - Alberto Carrillo de Comas - albertokarri@gmail.com
-- Gerardo Burgos - ...@gmail.com
-
-Link del proyecto: [https://github.com/GabrielPenise/netglobal](https://github.com/GabrielPenise/netglobal)
+- Gerardo Burgos - gerarburgos1987@gmail.com
 
 <p align="right">(<a href="#readme-top">volver a arriba</a>)</p>
